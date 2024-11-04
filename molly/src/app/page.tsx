@@ -25,7 +25,7 @@ export default function Home() {
             </div>
             <div className="gbegiri-main-overlay">
               <div className={styles.banner__section__overlay}>
-                <p>Hey its zack</p>
+                <p>Hey DEGEN</p>
                 <p className={styles.ma}>It&apos;s MOLLY. GON TAKE YOU TO MARS</p>
                 <span>Let&apos;s GET you to MARS.</span>
 
