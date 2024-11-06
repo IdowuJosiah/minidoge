@@ -1,16 +1,7 @@
 import type { Metadata } from "next";
-import {
-  DM_Sans,
-  Montserrat,
-  Nunito,
-  Urbanist,
-  Work_Sans,
-  Lexend,
-  Archivo_Black,
-  Bangers,
-  Luckiest_Guy,
-} from "next/font/google";
+import { DM_Sans, Montserrat, Nunito, Urbanist, Work_Sans, Lexend, Archivo_Black } from 'next/font/google';
 import "./globals.css";
+// import NavigationBar from "@/components/navbar/navbar";
 
 const dmSans = DM_Sans({
   subsets: ["latin"],
@@ -28,7 +19,7 @@ const archivo = Archivo_Black({
   subsets: ["latin"],
   variable: "--font-archivo",
   display: "swap",
-  weight: "400",
+  weight: "400"
 });
 
 const nunito = Nunito({
@@ -40,7 +31,7 @@ const nunito = Nunito({
 const urbanist = Urbanist({
   subsets: ["latin"],
   variable: "--font-urbanist",
-  weight: ["400", "700"],
+  weight: ['400', '700'],
   display: "swap",
 });
 
@@ -56,42 +47,28 @@ const lexend = Lexend({
   display: "swap",
 });
 
-const bangers = Bangers({
-  subsets: ["latin"],
-  variable: "--font-bangers",
-  display: "swap",
-});
-
-const luckiestGuy = Luckiest_Guy({
-  subsets: ["latin"],
-  variable: "--font-luckiest",
-  display: "swap",
-});
-
 export const metadata: Metadata = {
   title: "Astrochimp",
   description: "",
 };
 
 export default function RootLayout({
-                                     children,
-                                   }: {
+  children,
+}: {
   children: React.ReactNode;
 }) {
   return (
-      <html
-          lang="en"
-          className={`${dmSans.variable} ${montserrat.variable} ${nunito.variable} ${urbanist.variable} ${workSans.variable} ${lexend.variable} ${archivo.variable} ${bangers.variable} ${luckiestGuy.variable}`}
-      >
+    <html
+      lang="en"
+      className={`${dmSans.variable} ${montserrat.variable} ${nunito.variable} ${urbanist.variable} ${workSans.variable} ${lexend.variable} ${archivo.variable}`}
+    >
       <head>
         <title>{String(metadata.title ?? "")}</title>
         <meta name="description" content={String(metadata.description ?? "")} />
       </head>
       <body>
-      <div className="meme-style">
         {children}
-      </div>
       </body>
-      </html>
+    </html>
   );
 }
