@@ -1,101 +1,115 @@
+"use client"
+import { useState, useRef } from "react";
 import Image from "next/image";
+import styles from "./page.module.scss";
+import NavigationBar from "@/components/navbar/navbar";
+import './globals.css'
+import Footer from "@/components/footer/footer";
+import SlideOutWords from "@/components/slide-text/slide-text";
+
+
 
 export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+  const words = ['Hello there', ' Buck Welcomes you', 'To The future'];
+  const [showMainContent, setShowMainContent] = useState(false);
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  return (
+    <>
+     {!showMainContent ? (
+      <SlideOutWords 
+        words={words} 
+        onComplete={() => setShowMainContent(true)} 
+      />
+    ) : (
+      
+
+        <div className={styles.container}> 
+          <NavigationBar/>
+          <div className={styles.banner__section} id="home">
+            {/* <video className={styles.banner__image} src={BannerVideo} alt=''/> */}
+            <video
+              ref={videoRef}
+              className={styles.banner__video}
+              width="100%"
+              height="100%"
+              src='-7780751749536911421.MP4'
+
+              // onEnded={handleVideoEnd} // Reset to paused state when video ends
+            >
+            </video>
+            <div className={styles.banner__section__overlay}>
+              <p>Hey its zack</p>
+              <p className={styles.ma}>It&apos;s ASTROCHIMP. GON TAKE YOU TO MARS</p>
+              <span>Let&apos;s GET you to MARS.</span>
+
+              <div className={styles.cta__buttons}>
+                <button className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit"}} href="https://jup.ag/swap/SOL-8SuMAjoZeLGaaekNHP235Dv4soXsrcseFXefT3A9pump">Buy Now</a> </button>
+                <button className={styles.get__button}> <a style={{textDecoration:"none", color:"inherit"}} href="https://dexscreener.com/solana/gq3wzaougwmpcsvxzvyjlkipf7bri3nw8rupilsxfs8w">Get on Dex</a></button>
+              </div>
+            </div>
+          </div>
+          <div className={styles.about__section} id="about">
+            <header>Discover the Power of the ASTROCHIMP The HAM</header>
+
+            <b>About ASTROCHIMP</b>
+            <p>
+              Ham wasnt always known by that name. Originally designated as No. 65, he was renamed after the Holloman Aerospace Medical Center, where he underwent rigorous training.
+            </p>
+
+
+
+          </div>
+
+
+          <div className={styles.meme__gallery} id="gallery">
+
+
+             <div className={styles.meme}>
+              <Image src="/IMG_3007.JPG" alt="#"/>
+             </div>
+
+             <div className={styles.meme}>
+              <Image src="/IMG_3008.JPG" alt="#"/>
+             </div>
+
+             <div className={styles.meme}>
+              <Image src="/IMG_3009.JPG" alt="#"/>
+             </div>
+
+             <div className={styles.meme}>
+              <Image src="/IMG_3010.JPG" alt="#"/>
+             </div>
+
+             <div className={styles.meme}>
+              <Image src="/IMG_3011.JPG" alt="#"/>
+             </div>
+
+              <div className={styles.meme}>
+                  <Image src="/IMG_3012.JPG" alt="#"/>
+              </div>
+
+              <div className={styles.meme}>
+                  <Image src="/IMG_3013.JPG" alt="#"/>
+              </div>
+
+              <div className={styles.meme}>
+                  <Image src="/IMG_3014.JPG" alt="#"/>
+              </div>
+
+            <div className={styles.meme}>
+              <Image src="/IMG_3015.JPG" alt="#"/>
+            </div>
+
+
+          </div>
+
+
+          <Footer/>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      )}
+
+    </>
   );
 }
