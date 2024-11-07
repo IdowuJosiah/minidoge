@@ -45,3 +45,27 @@ a {
 html{
   scroll-behavior: smooth;
 }
+.banner-bacground-image{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.banner-bacground-image img{
+  width: 100%;
+  height: 100%;
+}
+.banner-on-top{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.banner-overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.53);
+}
