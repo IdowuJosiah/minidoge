@@ -69,3 +69,10 @@ html{
   height: 100%;
   background: rgba(0, 0, 0, 0.53);
 }
+@media screen and (min-width:350px) and (max-width: 750px) {
+  .rottate-image{
+    transform: rotate(90deg);
+    object-fit:cover;
+  }
+
+}
