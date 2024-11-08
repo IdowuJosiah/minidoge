@@ -24,7 +24,7 @@ const Footer = () => {
       <button className='copy-button' onClick={handleCopy}>Ghe6ADeD68s56VezA8T6KejzSTZRzHd3R9ZjtT9xpump</button>
       <div className="footer-icons">
           <div className="links">
-              <a href="https://x.com/0xzerebro/status/1854918610986111256" className="">
+              <a href="https://x.com/zerepooch" className="">
                   <RiTwitterFill/>
               </a>
           </div>

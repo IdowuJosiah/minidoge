@@ -23,9 +23,6 @@ export default function Home() {
 
             <div  className="banner-on-top">
               <div className={styles.banner__section__overlay}>
-                <div style={{paddingTop:"250px"}} className={styles.cta__buttons}>
-                  <button  className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit", }} href="https://jup.ag/swap/SOL-Ghe6ADeD68s56VezA8T6KejzSTZRzHd3R9ZjtT9xpump">Buy Now</a> </button>
-                </div>
               </div>
             </div>
             <div className="banner-footer">
