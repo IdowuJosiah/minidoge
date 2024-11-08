@@ -21,7 +21,7 @@ const Footer = () => {
   return (
     <div className='footer-section' id='contact'>
       <header className='footer-header'>Get some ZEREPOOCH here</header>
-      <button className='copy-button' onClick={handleCopy}>CONTRACT ADDRESS</button>
+      <button className='copy-button' onClick={handleCopy}>Ghe6ADeD68s56VezA8T6KejzSTZRzHd3R9ZjtT9xpump</button>
       <div className="footer-icons">
           <div className="links">
               <a href="https://x.com/0xzerebro/status/1854918610986111256" className="">

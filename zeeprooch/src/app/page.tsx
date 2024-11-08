@@ -20,13 +20,11 @@ export default function Home() {
             <div className="banner-bacground-image">
               <img className="rottate-image" src="/IMG_3065.JPG"/>
             </div>
-            <div className="banner-overlays">
 
-            </div>
             <div  className="banner-on-top">
               <div className={styles.banner__section__overlay}>
                 <div style={{paddingTop:"250px"}} className={styles.cta__buttons}>
-                  <button  className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit", }} href="https://jup.ag/swap/SOL-5MaeW2ARKTHh4vLjSwd4HyJqZB8WCp9UBwbFzXAtpump">Buy Now</a> </button>
+                  <button  className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit", }} href="https://jup.ag/swap/SOL-Ghe6ADeD68s56VezA8T6KejzSTZRzHd3R9ZjtT9xpump">Buy Now</a> </button>
                 </div>
               </div>
             </div>
