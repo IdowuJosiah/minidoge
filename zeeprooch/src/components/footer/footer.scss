@@ -1,0 +1,80 @@
+.banner-footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+.footer-section {
+    position: relative;
+    padding: 20px 25px;
+    font-family: var(--font-lexend);
+    display: flex;
+    flex-direction: column;
+    line-height: 45px;
+    align-items: center;
+    justify-content: center;
+
+    .copy-button {
+        border: 1px solid  rgb(155, 37, 37);   
+        color:  rgb(155, 37, 37);   
+        font-size: 26px;
+        padding: 15px 35px;
+        cursor: pointer;
+        width: fit-content;
+        border-radius: 7px;
+    }
+
+    .footer-header {
+        font-size: 25px;
+        font-weight: 600;
+        color: rgb(255, 255, 255);
+    }
+
+    span {
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    .tooltip {
+        position: absolute;
+        bottom: 50%; 
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: rgb(155, 37, 37);   
+        color: white;
+        padding: 0.2em 1em;
+        border-radius: 5px;
+        font-size: 14px;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .tooltip.show {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    .footer-icons{
+        display: flex;
+        gap: 25px;
+        align-items: center;
+        margin: 35px 0px 0px 0px;
+
+        svg{
+            font-size: 50px;
+        }
+
+        img{
+            width: 50px;
+            height: 50px;
+            // border-radius: 50%;
+        }
+    }
+}
+.links{
+    a{
+        color: rgb(255, 255, 255);
+    }
+}
