@@ -18,7 +18,7 @@ export default function Home() {
           <div className={styles.banner__section} id="home">
             {/* <video className={styles.banner__image} src={BannerVideo} alt=''/> */}
             <div className="banner-bacground-image">
-              <img className="rottate-image" src="/IMG_3041.JPG"/>
+              <img className="rottate-image" src="/IMG_3065.JPG"/>
             </div>
             <div className="banner-overlays">
 
