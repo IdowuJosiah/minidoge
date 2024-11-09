@@ -2,7 +2,7 @@
 import Image from "next/image";
 import styles from "./page.module.scss";
 import NavigationBar from "@/components/navbar/navbar";
-import BannerImage from '../../public/IMG_3077.JPG'
+import BannerImage from '../../public/ji.JPG'
 import './globals.css'
 import Footer from "@/components/footer/footer";
 import MemeOne from '../../public/IMG_3071.JPG'
@@ -11,7 +11,7 @@ import MemeThree from '../../public/IMG_3073.JPG'
 import MemeFour from '../../public/IMG_3074.JPG'
 import MemeFive from '../../public/IMG_3075.JPG'
 import MemeSix from '../../public/IMG_3076.JPG'
-import MemeSeven from '../../public/IMG_3077.JPG'
+import MemeSeven from '../../public/ji.JPG'
 import MemeEight from '../../public/IMG_3078.JPG'
 import MemeNine from '../../public/IMG_3079.JPG'
 import MemeTen from '../../public/IMG_3080.JPG'
