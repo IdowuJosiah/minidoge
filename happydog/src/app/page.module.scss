@@ -205,9 +205,8 @@
     .rottate-image{
         transform: rotate(90deg);
         object-fit:contain;
-        animation: spin 3s linear infinite;
+        animation: spin 4s linear infinite;
     }
-
 
     @keyframes spin {
         from {
