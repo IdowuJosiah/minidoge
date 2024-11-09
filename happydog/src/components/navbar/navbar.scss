@@ -1,0 +1,65 @@
+.navigation-bar{
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(135deg, rgba(161, 6, 6, 0.73) 0%,rgb(29,155,240) 100%);
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+
+    @media screen and (min-width:720px) {
+        padding: 15px;
+    }
+
+    @media screen and (max-width:720px) {
+        padding: 35px 15px;
+    }
+
+
+    .navigation-content{
+        display: flex;
+     
+        font-family: var(--font-urbanist);
+    
+        font-weight: 500;
+        cursor: pointer;
+        text-decoration: none;
+        letter-spacing: 0.5px;
+
+        
+        @media screen and (min-width:720px) {
+            font-size: 20px;
+            gap: 35px;
+        }
+
+        @media screen and (max-width:720px) {
+            font-size: 10px;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        a{
+            text-decoration: none;
+            color: #fff;
+        }
+    }
+}
+
+.nav-body{
+    p{
+        font-size: 40px;
+        font-weight: 800;
+        letter-spacing: 2px;
+
+    }
+}
+
+@media screen and (min-width:350px) and (max-width: 750px) {
+
+.nav-body{
+    p{
+        font-size: 15px;
+    }
+}
+}
