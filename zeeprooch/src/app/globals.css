@@ -41,7 +41,9 @@ a {
   padding: 0;
   margin: 0;
 }
-
+.main-main{
+  overflow: hidden;
+}
 html{
   scroll-behavior: smooth;
 }

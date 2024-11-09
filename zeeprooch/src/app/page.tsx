@@ -12,27 +12,29 @@ export default function Home() {
     <>
 
 
+<div className="main-main">
+  <div className={styles.container}>
+    <NavigationBar/>
+    <div className={styles.banner__section} id="home">
+      {/* <video className={styles.banner__image} src={BannerVideo} alt=''/> */}
+      <div className="banner-bacground-image">
+        <img className="rottate-image" src="/IMG_3065.JPG"/>
+      </div>
 
-        <div className={styles.container}> 
-          <NavigationBar/>
-          <div className={styles.banner__section} id="home">
-            {/* <video className={styles.banner__image} src={BannerVideo} alt=''/> */}
-            <div className="banner-bacground-image">
-              <img className="rottate-image" src="/IMG_3065.JPG"/>
-            </div>
-
-            <div  className="banner-on-top">
-              <div className={styles.banner__section__overlay}>
-              </div>
-            </div>
-            <div className="banner-footer">
-              <Footer/>
-            </div>
-          </div>
-
-
-
+      <div  className="banner-on-top">
+        <div className={styles.banner__section__overlay}>
         </div>
+      </div>
+      <div className="banner-footer">
+        <Footer/>
+      </div>
+    </div>
+
+
+
+  </div>
+
+</div>
 
     </>
   );
