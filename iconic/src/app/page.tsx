@@ -2,7 +2,6 @@
 import Image from "next/image";
 import styles from "./page.module.scss";
 import NavigationBar from "@/components/navbar/navbar";
-import BannerImage from '../../public/ji.JPG'
 import './globals.css'
 import Footer from "@/components/footer/footer";
 import MemeOne from '../../public/IMG_3071.JPG'
@@ -29,7 +28,7 @@ export default function Home() {
             <div className={styles.container}>
                 <NavigationBar/>
                 <div className={styles.banner__section} id="home">
-                    <Image className={styles.banner__image} src={BannerImage} alt=''/>
+                    <Image className={styles.banner__image} src="/ji.JPG" alt=''/>
                     <div className={styles.banner__section__overlay}>
                         <p>Hi there ICON</p>
                         <p className={styles.ma}>LETS COME MAKE YOU THE NEXT ICON</p>
