@@ -4,18 +4,7 @@ import styles from "./page.module.scss";
 import NavigationBar from "@/components/navbar/navbar";
 import './globals.css'
 import Footer from "@/components/footer/footer";
-import MemeOne from '../../public/IMG_3071.JPG'
-import MemeTwo from '../../public/IMG_3072.JPG'
-import MemeThree from '../../public/IMG_3073.JPG'
-import MemeFour from '../../public/IMG_3074.JPG'
-import MemeFive from '../../public/IMG_3075.JPG'
-import MemeSix from '../../public/IMG_3076.JPG'
-import MemeSeven from '../../public/ji.JPG'
-import MemeEight from '../../public/IMG_3078.JPG'
-import MemeNine from '../../public/IMG_3079.JPG'
-import MemeTen from '../../public/IMG_3080.JPG'
-import MemeEleven from '../../public/IMG_3081.JPG'
-import MemeTwelve from '../../public/IMG_3082.JPG'
+
 
 import Steps from "@/components/steps/steps";
 
@@ -48,47 +37,47 @@ export default function Home() {
 
                 <div className={styles.meme__gallery} id="gallery">
                     <div className={styles.meme}>
-                        <Image src={MemeOne} alt="#"/>
+                        <Image src="IMG_3071.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src={MemeTwo} alt="#"/>
+                        <Image src="IMG_3072.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src={MemeThree} alt="#"/>
+                        <Image src="IMG_3073.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src={MemeFour} alt="#"/>
+                        <Image src="IMG_3074.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src={MemeFive} alt="#"/>
+                        <Image src="IMG_3075.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src={MemeSix} alt="#"/>
+                        <Image src="IMG_3076.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src={MemeSeven} alt="#"/>
+                        <Image src="IMG_3077.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src={MemeEight} alt="#"/>
+                        <Image src="IMG_3078.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src={MemeNine} alt="#"/>
+                        <Image src="IMG_3079.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src={MemeTen} alt="#"/>
+                        <Image src="IMG_3080.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src={MemeEleven} alt="#"/>
+                        <Image src="IMG_3081.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src={MemeTwelve} alt="#"/>
+                        <Image src="IMG_3082.JPG" alt="#"/>
                     </div>
 
 
