@@ -25,10 +25,10 @@ export default function Home() {
 
                         <div className={styles.cta__buttons}>
                             <button className={styles.buy__button}><a style={{textDecoration: "none", color: "inherit"}}
-                                                                      href="https://jup.ag/swap/SOL-8SuMAjoZeLGaaekNHP235Dv4soXsrcseFXefT3A9pump">Buy
+                                                                      href="https://jup.ag/swap/SOL-FZJVuk92WHhDXJ3RM7nzbndQvqZz3e3FPDB3njXwpump">Buy
                                 Now</a></button>
                             <button className={styles.get__button}><a style={{textDecoration: "none", color: "inherit"}}
-                                                                      href="https://dexscreener.com/solana/8wgy9ke3yatcvoiw4engaxvukpqr2pmvhzcmyzavlbke">Get
+                                                                      href="https://dexscreener.com/solana/btrxvjnmaxxs2meh46395csqpq5993eddty4awabgwed">Get
                                 on Dex</a></button>
                         </div>
                     </div>

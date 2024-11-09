@@ -9,7 +9,7 @@ import Dex from '../../../public/dex-screener-seeklogo.png'
 
 const Footer = () => {
   const [copied, setCopied] = useState(false);
-  const code = "8SuMAjoZeLGaaekNHP235Dv4soXsrcseFXefT3A9pump";
+  const code = "FZJVuk92WHhDXJ3RM7nzbndQvqZz3e3FPDB3njXwpump";
 
   const handleCopy = () => {
     console.log('clicked');
@@ -26,17 +26,17 @@ const Footer = () => {
       <button className='copy-button' onClick={handleCopy}>CONTRACT ADDRESS</button>
       <div className="footer-icons">
           <div className="links">
-              <a href="https://x.com/colossusctosol" className="">
+              <a href="https://x.com/iconicxcto" className="">
                   <FaXTwitter/>
               </a>
           </div>
           <div className="links">
-              <a href="https://t.me/ColossusPortalcto" className="">
+              <a href="https://t.me/iconicportalcto" className="">
                   <FaTelegramPlane />
               </a>
           </div>
           <div className="links">
-              <a href="https://dexscreener.com/solana/8wgy9ke3yatcvoiw4engaxvukpqr2pmvhzcmyzavlbke" className="">
+              <a href="https://dexscreener.com/solana/btrxvjnmaxxs2meh46395csqpq5993eddty4awabgwed" className="">
                   <Image src={Dex} alt=''/>
               </a>
           </div>
