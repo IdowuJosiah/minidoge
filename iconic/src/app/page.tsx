@@ -17,12 +17,8 @@ export default function Home() {
             <div className={styles.container}>
                 <NavigationBar/>
                 <div className={styles.banner__section} id="home">
-                    <Image className={styles.banner__image} src="/ji.JPG" alt=''/>
+                    <Image className={styles.banner__image} src="/IMG_3088.JPG" alt=''/>
                     <div className={styles.banner__section__overlay}>
-                        <p>Hi there ICON</p>
-                        <p className={styles.ma}>LETS COME MAKE YOU THE NEXT ICON</p>
-                        <span>Let&apos;s create your own ICONIC adventure.</span>
-
                         <div className={styles.cta__buttons}>
                             <button className={styles.buy__button}><a style={{textDecoration: "none", color: "inherit"}}
                                                                       href="https://jup.ag/swap/SOL-FZJVuk92WHhDXJ3RM7nzbndQvqZz3e3FPDB3njXwpump">Buy
@@ -37,47 +33,47 @@ export default function Home() {
 
                 <div className={styles.meme__gallery} id="gallery">
                     <div className={styles.meme}>
-                        <Image src="IMG_3071.JPG" alt="#"/>
+                        <Image src="IMG_3089.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src="IMG_3072.JPG" alt="#"/>
+                        <Image src="IMG_3088.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src="IMG_3073.JPG" alt="#"/>
+                        <Image src="IMG_3090.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src="IMG_3074.JPG" alt="#"/>
+                        <Image src="IMG_3091.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src="IMG_3075.JPG" alt="#"/>
+                        <Image src="IMG_3092.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src="IMG_3076.JPG" alt="#"/>
+                        <Image src="IMG_3093.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src="IMG_3077.JPG" alt="#"/>
+                        <Image src="IMG_3094.JPG" alt="#"/>
                     </div>
 
                     <div className={styles.meme}>
-                        <Image src="IMG_3078.JPG" alt="#"/>
+                        <Image src="IMG_3095.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src="IMG_3079.JPG" alt="#"/>
+                        <Image src="IMG_3096.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src="IMG_3080.JPG" alt="#"/>
+                        <Image src="IMG_3097.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src="IMG_3081.JPG" alt="#"/>
+                        <Image src="IMG_3098.JPG" alt="#"/>
                     </div>
                     <div className={styles.meme}>
-                        <Image src="IMG_3082.JPG" alt="#"/>
+                        <Image src="IMG_3099.JPG" alt="#"/>
                     </div>
 
 
