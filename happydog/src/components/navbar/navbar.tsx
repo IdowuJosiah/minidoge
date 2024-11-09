@@ -7,7 +7,7 @@ const NavigationBar = () => {
         <div className="navigation-content">
             <div className="nav-body">
                 <p>
-                   OFFICIAL DOG OF $ZEREBRO
+                   $HAPPY DOG
                 </p>
             </div>
         </div>
