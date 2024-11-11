@@ -1,6 +1,5 @@
 .navigation-bar{
-    background-color: rgb(255, 255, 255);
-    background-image: linear-gradient(135deg, rgba(161, 6, 6, 0.73) 0%,rgb(29,155,240) 100%);
+    background-color: rgb(5, 0, 0);
     width: 100%;
     position: fixed;
     display: flex;
@@ -51,6 +50,7 @@
         font-size: 40px;
         font-weight: 800;
         letter-spacing: 2px;
+        color: white;
 
     }
 }

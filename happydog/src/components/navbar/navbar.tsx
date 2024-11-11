@@ -7,7 +7,7 @@ const NavigationBar = () => {
         <div className="navigation-content">
             <div className="nav-body">
                 <p>
-                   $HAPPY DOG
+                   $JUSTABLACKHOLE
                 </p>
             </div>
         </div>

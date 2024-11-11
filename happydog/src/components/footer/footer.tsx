@@ -8,7 +8,7 @@ import Dex from '../../../public/dex-screener-seeklogo.png'
 
 const Footer = () => {
   const [copied, setCopied] = useState(false);
-  const code = "Ghe6ADeD68s56VezA8T6KejzSTZRzHd3R9ZjtT9xpump";
+  const code = "96QmMPAiy79EJcvKc7nLzdPqFHrVuFrha6yUgLb4pump";
 
   const handleCopy = () => {
     console.log('clicked');
@@ -20,8 +20,8 @@ const Footer = () => {
 
   return (
     <div className='footer-section' id='contact'>
-      <header className='footer-header'>Get some HAPPY DOG here</header>
-      <button className='copy-button' onClick={handleCopy}>Ghe6ADeD68s56VezA8T6KejzSTZRzHd3R9ZjtT9xpump</button>
+      <header className='footer-header'>Get $JUSTABLACKHOLE here</header>
+      <button className='copy-button' onClick={handleCopy}>96QmMPAiy79EJcvKc7nLzdPqFHrVuFrha6yUgLb4pump</button>
       <div className="footer-icons">
           <div className="links">
               <a href="https://x.com/zerepooch" className="">
@@ -29,12 +29,12 @@ const Footer = () => {
               </a>
           </div>
           <div className="links">
-              <a href="https://t.me/happydogsol" className="">
+              <a href="https://x.com/zerepooch" className="">
                   <FaTelegramPlane />
               </a>
           </div>
           <div className="links">
-              <a href="https://x.com/happydogpf" className="">
+              <a href="https://dexscreener.com/solana/2pkcdg1sqq4urrh8rp8syensbwudjb5sgz5dngnk13ks" className="">
                   <Image src={Dex} alt=''/>
               </a>
           </div>

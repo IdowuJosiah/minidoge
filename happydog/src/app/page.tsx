@@ -18,7 +18,14 @@ export default function Home() {
     <div className={styles.banner__section} id="home">
       {/* <video className={styles.banner__image} src={BannerVideo} alt=''/> */}
       <div className="banner-bacground-image">
-        <img className="rottate-image" src="/IMG_3102-removebg-preview.png"/>
+        <video
+            className="rottate-image videobanner"
+            src="/-9089601618369949122.MP4" // Replace with the path to your video file
+            autoPlay
+            loop
+            muted
+            playsInline
+        />
       </div>
 
       <div  className="banner-on-top">
