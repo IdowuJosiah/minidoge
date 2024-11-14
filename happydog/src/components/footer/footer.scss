@@ -16,8 +16,8 @@
     justify-content: center;
 
     .copy-button {
-        border: 1px solid  rgb(155, 37, 37);   
-        color:  rgb(155, 37, 37);   
+        border: 1px solid  #000000;
+        color:  #000000;
         font-size: 26px;
         padding: 15px 35px;
         cursor: pointer;
@@ -99,12 +99,12 @@
         justify-content: center;
 
         .copy-button {
-            border: 1px solid  rgb(155, 37, 37);
-            color:  rgb(155, 37, 37);
-            font-size: 16px;
-            padding: 10px 30px;
+            border: #000000;
+            color:  #000000;
+            font-size: 12px;
+            padding: 10px 10px;
             cursor: pointer;
-            width: fit-content;
+            width: 90%;
             border-radius: 7px;
         }
 
