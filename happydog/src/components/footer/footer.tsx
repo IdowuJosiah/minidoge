@@ -20,8 +20,10 @@ const Footer = () => {
 
   return (
     <div className='footer-section' id='contact'>
-      <header className='footer-header'>Get $TRUST THE PROCESS here</header>
-      <button className='copy-button' onClick={handleCopy}>AsZbLhzi1MgxKKD1SceeUCyxkmHxNZy7dvo89AZEpump</button>
+      <header className='footer-header'> $TRUST THE BUY</header>
+        <div className="copy-button-div">
+            <button className='copy-button' onClick={handleCopy}>AsZbLhzi1MgxKKD1SceeUCyxkmHxNZy7dvo89AZEpump</button>
+        </div>
       <div className="footer-icons">
           <div className="links">
               <a href="https://x.com/TRUST_CTO_" className="">
