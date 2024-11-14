@@ -1,6 +1,5 @@
 "use client"
 import styles from "./page.module.scss";
-import NavigationBar from "@/components/navbar/navbar";
 import './globals.css'
 import Footer from "@/components/footer/footer";
 
