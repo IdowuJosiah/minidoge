@@ -20,11 +20,11 @@ const Footer = () => {
 
   return (
     <div className='footer-section' id='contact'>
-      <header className='footer-header'>Get $JUSTABLACKHOLE here</header>
-      <button className='copy-button' onClick={handleCopy}>96QmMPAiy79EJcvKc7nLzdPqFHrVuFrha6yUgLb4pump</button>
+      <header className='footer-header'>Get $TRUST THE PROCESS here</header>
+      <button className='copy-button' onClick={handleCopy}>AsZbLhzi1MgxKKD1SceeUCyxkmHxNZy7dvo89AZEpump</button>
       <div className="footer-icons">
           <div className="links">
-              <a href="https://x.com/zerepooch" className="">
+              <a href="https://x.com/TRUST_CTO_" className="">
                   <RiTwitterFill/>
               </a>
           </div>
@@ -34,7 +34,7 @@ const Footer = () => {
               </a>
           </div>
           <div className="links">
-              <a href="https://dexscreener.com/solana/2pkcdg1sqq4urrh8rp8syensbwudjb5sgz5dngnk13ks" className="">
+              <a href="https://dexscreener.com/solana/bbmxkqr1tcwswn4blqmk6usvejjdfkizowpzzqwtiqgt" className="">
                   <Image src={Dex} alt=''/>
               </a>
           </div>

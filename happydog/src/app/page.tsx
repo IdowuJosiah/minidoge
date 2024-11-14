@@ -14,13 +14,21 @@ export default function Home() {
 
 <div className="main-main">
   <div className={styles.container}>
-    <NavigationBar/>
+
     <div className={styles.banner__section} id="home">
       {/* <video className={styles.banner__image} src={BannerVideo} alt=''/> */}
       <div className="banner-bacground-image">
         <video
-            className="rottate-image videobanner"
-            src="/-9089601618369949122.MP4" // Replace with the path to your video file
+            className="rottate-image videobanner desktop"
+            src="/-2122678917185029725.MP4" // Replace with the path to your video file
+            autoPlay
+            loop
+            muted
+            playsInline
+        />
+        <video
+            className="rottate-image videobanner mobile"
+            src="/copy_21C9F681-CD73-4257-A235-F789D55C11E5.MOV" // Replace with the path to your video file
             autoPlay
             loop
             muted
@@ -30,6 +38,11 @@ export default function Home() {
 
       <div  className="banner-on-top">
         <div className={styles.banner__section__overlay}>
+        </div>
+      </div>
+      <div className="banner-header-text-oo">
+        <div className="trust">
+          $TRUST THE PROCESS
         </div>
       </div>
       <div className="banner-footer">
