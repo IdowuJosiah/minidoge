@@ -41,7 +41,7 @@ export default function Home() {
       </div>
       <div className="banner-header-text-oo">
         <div className="trust">
-          THE BIRD $TWEAKS
+          THE CAT $TWEAKS
         </div>
       </div>
       <div className="banner-footer">
