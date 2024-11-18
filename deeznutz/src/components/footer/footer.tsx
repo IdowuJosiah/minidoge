@@ -20,7 +20,7 @@ const Footer = () => {
 
   return (
     <div className='footer-section' id='contact'>
-      <header className='footer-header'> $TRUST THE BUY</header>
+      <header className='footer-header'> GET $TWEAK HERE </header>
         <div className="copy-button-div">
             <button className='copy-button' onClick={handleCopy}>AsZbLhzi1MgxKKD1SceeUCyxkmHxNZy7dvo89AZEpump</button>
         </div>
