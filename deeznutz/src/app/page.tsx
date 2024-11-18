@@ -27,7 +27,7 @@ export default function Home() {
         />
         <video
             className="rottate-image videobanner mobile"
-            src="/copy_E2241F8C-6456-401C-A323-E76833C8D15D.MOV" // Replace with the path to your video file
+            src="/copy_E2241F8C-6456-401C-A323-E76833C8D15D.mp4" // Replace with the path to your video file
             autoPlay
             loop
             muted

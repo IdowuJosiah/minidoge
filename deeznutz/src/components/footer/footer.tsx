@@ -8,7 +8,7 @@ import Dex from '../../../public/dex-screener-seeklogo.png'
 
 const Footer = () => {
   const [copied, setCopied] = useState(false);
-  const code = "96QmMPAiy79EJcvKc7nLzdPqFHrVuFrha6yUgLb4pump";
+  const code = "5ZGehQgJUdvRmdu2NUgt4wDGxhco7ZuBv6v1keEZpump";
 
   const handleCopy = () => {
     console.log('clicked');
@@ -22,11 +22,11 @@ const Footer = () => {
     <div className='footer-section' id='contact'>
       <header className='footer-header'> GET $TWEAK HERE </header>
         <div className="copy-button-div">
-            <button className='copy-button' onClick={handleCopy}>AsZbLhzi1MgxKKD1SceeUCyxkmHxNZy7dvo89AZEpump</button>
+            <button className='copy-button' onClick={handleCopy}>5ZGehQgJUdvRmdu2NUgt4wDGxhco7ZuBv6v1keEZpump</button>
         </div>
       <div className="footer-icons">
           <div className="links">
-              <a href="https://x.com/TRUST_CTO_" className="">
+              <a href="https://t.me/tweak_Portal" className="">
                   <RiTwitterFill/>
               </a>
           </div>
