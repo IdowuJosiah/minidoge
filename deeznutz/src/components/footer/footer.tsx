@@ -36,7 +36,7 @@ const Footer = () => {
               </a>
           </div>
           <div className="links">
-              <a href="https://dexscreener.com/solana/bbmxkqr1tcwswn4blqmk6usvejjdfkizowpzzqwtiqgt" className="">
+              <a href="https://dexscreener.com/solana/fgqc4pcpwg9ohyzdqmvbynrneby2novvpsyhbwgjyo3q" className="">
                   <Image src={Dex} alt=''/>
               </a>
           </div>
