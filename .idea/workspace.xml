@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14451829-3298-456e-91a1-00de1b6a5fae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/-2122678917185029725.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/-7780751749536911421.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/-9089601618369949122.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/GbBlc37XwAAkYvB.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/GbBmEIKWIAAdwUx.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/GbD4ptEW4AAbEEr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/GbEioERbQAAEH3P.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3006.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3007.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3008.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3009.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3010.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3011.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3012.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3013.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3014.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3015.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3016.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3017 2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3018.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3041.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3065.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3102-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/IMG_3102.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/WhatsApp Image 2024-10-29 at 20.37.31.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/WhatsApp Image 2024-11-01 at 13.51.32 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/WhatsApp Image 2024-11-01 at 13.51.33 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/WhatsApp Image 2024-11-01 at 13.51.33.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/ai-generated-8644499_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/ai-generated-8905905_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/bitcoin-6230533_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/copy_21C9F681-CD73-4257-A235-F789D55C11E5.MOV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/copy_BB1828E6-641C-4B9C-9CD8-43537E8768AF.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/dex-screener-seeklogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/dex-screener-seeklogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/hamback.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/photo_2024-10-31 22.31.01.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/public/sample-banner-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/app/fonts/GeistMonoVF.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/app/fonts/GeistVF.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/app/page.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/components/back-to-top/back-to-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/components/back-to-top/back-to-top.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/components/footer/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/components/footer/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/components/navbar/navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeznutz/src/components/navbar/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconic/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/iconic/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molly/src/components/navbar/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/molly/src/components/navbar/navbar.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2p21YCZGZNv3ZL0UxEvFIJQ82TT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/josiah/Downloads",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14451829-3298-456e-91a1-00de1b6a5fae" name="Changes" comment="" />
+      <created>1731949401646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731949401646</updated>
+      <workItem from="1731949402923" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>
