@@ -122,6 +122,9 @@ html{
     object-fit: cover;
 
   }
+  .cloud-banner{
+    top :0
+  }
   .banner-header-text-oo{
     position: absolute;
     top: 10%;
