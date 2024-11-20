@@ -1,0 +1,190 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/font/Bouncy-Black-PERSONAL_USE_ONLY.otf') format('woff2'),
+    url('/font/KOMIKAX_.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.banner-footer{
+
+
+    position: absolute;
+    width: 100%;
+    bottom: 30%;
+    left: 15%;
+}
+
+.footer-section {
+    position: relative;
+    padding: 20px 25px;
+    font-family: 'MyCustomFont', sans-serif;
+    display: flex;
+    flex-direction: column;
+    line-height: 45px;
+    align-items: center;
+    justify-content: center;
+
+    .copy-button {
+        color:  #000000;
+        font-size: 20px;
+        padding: 15px 35px;
+        cursor: pointer;
+        width: fit-content;
+        background: transparent;
+        border:none;
+    }
+    .copy-button-search{
+        background: black;
+        padding: 10px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        p{
+            .icon{
+                color: #4f5247;
+                font-size: 20px;
+            }
+        }
+    }
+    .copy-button-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px  solid black;
+        border-radius: 20px ;
+
+    }
+
+    span {
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    .tooltip {
+        position: absolute;
+        bottom: 50%; 
+        left: 50%;
+        transform: translateX(-50%);
+        color: white;
+        padding: 0.2em 1em;
+        border-radius: 5px;
+        font-size: 14px;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .tooltip.show {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    .footer-icons{
+        display: flex;
+        gap: 25px;
+        align-items: center;
+        margin: 35px 0px 0px 0px;
+
+        svg{
+            font-size: 50px;
+        }
+
+        img{
+            width: 50px;
+            height: 50px;
+            // border-radius: 50%;
+        }
+    }
+}
+.links{
+    a{
+        color: rgb(255, 255, 255);
+    }
+}
+
+
+@media screen and (min-width:350px) and (max-width: 750px) {
+    .banner-footer{
+        position: absolute;
+        width: 100%;
+        bottom: 30%;
+        left: 0;
+    }
+
+    .footer-section {
+        position: relative;
+        padding: 10px 15px;
+        font-family: var(--font-lexend);
+        display: flex;
+        flex-direction: column;
+        line-height: 45px;
+        align-items: center;
+        justify-content: center;
+
+        .copy-button {
+            border: #000000;
+            color:  #000000;
+            font-size: 12px;
+            cursor: pointer;
+            width: 90%;
+            border-radius: 7px;
+        }
+
+        .footer-header {
+            font-size: 15px;
+            font-weight: 600;
+            color: rgb(255, 255, 255);
+        }
+
+        span {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .tooltip {
+            position: absolute;
+            bottom: 50%;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgb(155, 37, 37);
+            color: white;
+            padding: 0.1em .5em;
+            border-radius: 5px;
+            font-size: 1px;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease-in-out;
+        }
+
+        .tooltip.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .footer-icons{
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            margin: 35px 0px 0px 0px;
+
+            svg{
+                font-size: 50px;
+            }
+
+            img{
+                width: 30px;
+                height: 30px;
+                // border-radius: 50%;
+            }
+        }
+    }
+    .links{
+        a{
+            color: rgb(255, 255, 255);
+        }
+    }
+}
