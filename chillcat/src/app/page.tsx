@@ -37,6 +37,7 @@ export default function Home() {
         <div className="trust">
           <div className="cloud-banner">
             <img
+                className="cloud"
                 src="/IMG_0053.PNG"
             />
           </div>

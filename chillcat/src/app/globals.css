@@ -123,7 +123,11 @@ html{
 
   }
   .cloud-banner{
-    top :0
+    top :-10%
+  }
+  .cloud{
+    width: 80px;
+    height: 80px;
   }
   .banner-header-text-oo{
     position: absolute;
