@@ -40,9 +40,12 @@ export default function Home() {
                 src="/IMG_0053.PNG"
             />
           </div>
+
+        </div>
+        <div className="just-chill">
           <img
-            src="/IMG_0050.PNG"
-            />
+              src="/IMG_0050.PNG"
+          />
         </div>
         <div className="cat-banner">
           <img
