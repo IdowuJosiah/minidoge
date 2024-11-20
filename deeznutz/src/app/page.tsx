@@ -17,21 +17,15 @@ export default function Home() {
     <div className={styles.banner__section} id="home">
       {/* <video className={styles.banner__image} src={BannerVideo} alt=''/> */}
       <div className="banner-bacground-image">
-        <video
+        <img
             className="rottate-image videobanner desktop"
-            src="/copy_0AC5F4C3-70E6-4EAD-9816-64F94771D11C.MOV" // Replace with the path to your video file
-            autoPlay
-            loop
-            muted
-            playsInline
+            src="/IMG_0049.JPG" // Replace with the path to your video file
+
         />
-        <video
+        <img
             className="rottate-image videobanner mobile"
-            src="/copy_E2241F8C-6456-401C-A323-E76833C8D15D.mp4" // Replace with the path to your video file
-            autoPlay
-            loop
-            muted
-            playsInline
+            src="/IMG_0049.JPG" // Replace with the path to your video file
+
         />
       </div>
 
@@ -41,7 +35,19 @@ export default function Home() {
       </div>
       <div className="banner-header-text-oo">
         <div className="trust">
-          THE CAT $TWEAKS
+          <div className="cloud-banner">
+            <img
+                src="/IMG_0053.PNG"
+            />
+          </div>
+          <img
+            src="/IMG_0050.PNG"
+            />
+        </div>
+        <div className="cat-banner">
+          <img
+              className="cat-image"
+              src="/IMG_0048.PNG"/>
         </div>
       </div>
       <div className="banner-footer">

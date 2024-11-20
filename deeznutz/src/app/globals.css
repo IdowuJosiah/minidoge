@@ -95,9 +95,9 @@ html{
 }
 .banner-header-text-oo{
   position: absolute;
-  top: 40%;
+  top: 10%;
   width: 100%;
-  left: 30%;
+  left: 10%;
   height: 100%;
 
 }
@@ -107,8 +107,12 @@ html{
   font-family: 'MyCustomFont', sans-serif;
 
 }
-
-
+.cat-banner{
+  position: absolute;bottom: 0;left: -10%;
+}
+.cloud-banner{
+  position: absolute;top: 10%;left:-10%
+}
 @media screen and (min-width:350px) and (max-width: 750px) {
   .desktop{
     display: none;
@@ -116,12 +120,13 @@ html{
   .mobile{
     display: block;
     object-fit: cover;
+
   }
   .banner-header-text-oo{
     position: absolute;
-    top: 40%;
+    top: 10%;
     width: 100%;
-    left: 16%;
+    left: 10%;
     height: 100%;
     font-family: 'MyCustomFont', sans-serif;
   }

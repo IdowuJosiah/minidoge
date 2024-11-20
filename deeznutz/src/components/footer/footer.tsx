@@ -3,12 +3,13 @@ import React, { useState } from 'react';
 import './footer.scss';
 import { RiTwitterFill } from "react-icons/ri";
 import { FaTelegramPlane } from 'react-icons/fa';
+import { FaSearch } from "react-icons/fa";
 import Image from 'next/image';
 import Dex from '../../../public/dex-screener-seeklogo.png'
 
 const Footer = () => {
   const [copied, setCopied] = useState(false);
-  const code = "5ZGehQgJUdvRmdu2NUgt4wDGxhco7ZuBv6v1keEZpump";
+  const code = "VhAk1GMq1AtRZRkVQmsLpYXTrG1ZS3UoiFUPyMFpump";
 
   const handleCopy = () => {
     console.log('clicked');
@@ -20,9 +21,13 @@ const Footer = () => {
 
   return (
     <div className='footer-section' id='contact'>
-      <header className='footer-header'> GET $TWEAK HERE </header>
         <div className="copy-button-div">
-            <button className='copy-button' onClick={handleCopy}>5ZGehQgJUdvRmdu2NUgt4wDGxhco7ZuBv6v1keEZpump</button>
+            <button className='copy-button' onClick={handleCopy}>VhAk1GMq1AtRZRkVQmsLpYXTrG1ZS3UoiFUPyMFpump</button>
+            <div className="copy-button-search">
+                <p>
+                    <FaSearch className="icon" />
+                </p>
+            </div>
         </div>
       <div className="footer-icons">
           <div className="links">
@@ -36,7 +41,7 @@ const Footer = () => {
               </a>
           </div>
           <div className="links">
-              <a href="https://dexscreener.com/solana/fgqc4pcpwg9ohyzdqmvbynrneby2novvpsyhbwgjyo3q" className="">
+              <a href="https://dexscreener.com/solana/fgqc4pcpwg9ohyzdqmvbynrneby2novvpsyhbwgjyo3qlo" className="">
                   <Image src={Dex} alt=''/>
               </a>
           </div>
