@@ -1,0 +1,96 @@
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.main-main{
+  overflow: hidden;
+}
+html{
+  scroll-behavior: smooth;
+}
+.mobile{
+  display: none;
+}
+
+.banner-bacground-image{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: #000000;
+}
+.banner-bacground-image img{
+  width: 100%;
+  height: 100%;
+}
+.banner-on-top{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.banner-overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.53);
+}
+
+.banner-overlays{
+  width: 100%;
+}
+.videobanner{
+  width: 100%;
+  height: 100%;
+}
+
+.banner-tophead{
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  z-index: 5;
+
+}
+.bt-text{
+  font-size: 66px;
+  color: #11850e;
+}
+.banner-header-text-avatar{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+}
+.banner-avater{
+  width: 700px;
+}
+@media screen and (min-width:350px) and (max-width: 750px) {
+  .desktop{
+    display: none;
+  }
+  .mobile{
+    display: block;
+    object-fit: cover;
+  }
+  .banner-avater{
+    width: 500px;
+  }
+
+  .copy-button-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .copy-button{
+    width: 70%;
+  }
+
+}
