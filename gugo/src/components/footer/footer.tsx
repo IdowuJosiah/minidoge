@@ -26,17 +26,17 @@ const Footer = () => {
       <button className='copy-button' onClick={handleCopy}>CONTRACT ADDRESS</button>
       <div className="footer-icons">
           <div className="links">
-              <a href="https://x.com/ChippoSolana" className="">
+              <a href="https://x.com/GugoOnSolana" className="">
                   <FaXTwitter/>
               </a>
           </div>
           <div className="links">
-              <a href="https://t.me/chipposolana" className="">
+              <a href="https://t.me/+Z3LQESaxm8lhZWVh" className="">
                   <FaTelegramPlane />
               </a>
           </div>
           <div className="links">
-              <a href="https://dexscreener.com/solana/8wgy9ke3yatcvoiw4engaxvukpqr2pmvhzcmyzavlbke" className="">
+              <a href="https://dexscreener.com/solana/6nuhxztpq38ct2xuryzundvcivhu4hca1tstt7k7ycru" className="">
                   <Image src={Dex} alt=''/>
               </a>
           </div>
