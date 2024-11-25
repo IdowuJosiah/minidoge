@@ -31,8 +31,8 @@ export default function Home() {
                         </h1>
                     </div>
               <div className={styles.cta__buttons}>
-                <button className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit"}} href="https://jup.ag/swap/SOL-jCHd8bHsn9XLkLpP6tS63infRFHhorzXpt7pjU5pump">Buy Now</a> </button>
-                <button className={styles.get__button}> <a style={{textDecoration:"none", color:"inherit"}} href="https://dexscreener.com/solana/a8yhjw5rxupz6nnrivtnh4ajnsfotv2aq64ubyqwzmxe">Get on Dex</a></button>
+                <button className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit"}} href="https://jup.ag/swap/SOL-EM2xa9mWsVKkDUP3KGfy7WxC1vXS7FdTgARdnZzrpump">Buy Now</a> </button>
+                <button className={styles.get__button}> <a style={{textDecoration:"none", color:"inherit"}} href="https://dexscreener.com/solana/6nuhxztpq38ct2xuryzundvcivhu4hca1tstt7k7ycru">Get on Dex</a></button>
               </div>
             </div>
             <div>

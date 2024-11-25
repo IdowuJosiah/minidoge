@@ -9,7 +9,7 @@ import Dex from '../../../public/dex-screener-seeklogo.png'
 
 const Footer = () => {
   const [copied, setCopied] = useState(false);
-  const code = "jCHd8bHsn9XLkLpP6tS63infRFHhorzXpt7pjU5pump";
+  const code = "EM2xa9mWsVKkDUP3KGfy7WxC1vXS7FdTgARdnZzrpump";
 
   const handleCopy = () => {
     console.log('clicked');
@@ -21,7 +21,7 @@ const Footer = () => {
 
   return (
     <div className='footer-section' id='contact'>
-      <header className='footer-header'>Get some $CHIPPO here</header>
+      <header className='footer-header'>Get some $GUGO here</header>
       <span>Ready to do this? Let&apos;s get rich</span>
       <button className='copy-button' onClick={handleCopy}>CONTRACT ADDRESS</button>
       <div className="footer-icons">
