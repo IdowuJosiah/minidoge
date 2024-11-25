@@ -49,12 +49,8 @@ export default function Home() {
                         <img src="/IMG_3376.JPG" alt="#"/>
                     </div>
 
-                    <div className={styles.meme}>
-                        <img src="/IMG_3374.JPG" alt="#"/>
-                    </div>
-
-
                 </div>
+                <Footer/>
             </div>
           </div>
 
@@ -62,7 +58,7 @@ export default function Home() {
 
 
 
-          <Footer/>
+
         </div>
 
 
