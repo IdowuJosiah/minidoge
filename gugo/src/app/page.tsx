@@ -3,6 +3,7 @@ import styles from "./page.module.scss";
 import './globals.css'
 import Footer from "@/components/footer/footer";
 
+
 export default function Home() {
 
   return (
@@ -33,6 +34,27 @@ export default function Home() {
                 <button className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit"}} href="https://jup.ag/swap/SOL-jCHd8bHsn9XLkLpP6tS63infRFHhorzXpt7pjU5pump">Buy Now</a> </button>
                 <button className={styles.get__button}> <a style={{textDecoration:"none", color:"inherit"}} href="https://dexscreener.com/solana/a8yhjw5rxupz6nnrivtnh4ajnsfotv2aq64ubyqwzmxe">Get on Dex</a></button>
               </div>
+            </div>
+            <div>
+                <div className={styles.meme__gallery} id="gallery">
+                    <div className={styles.meme}>
+                        <img src="/IMG_3373.JPG" alt="#"/>
+                    </div>
+
+                    <div className={styles.meme}>
+                        <img src="/IMG_3371.JPG" alt="#"/>
+                    </div>
+
+                    <div className={styles.meme}>
+                        <img src="/IMG_3376.JPG" alt="#"/>
+                    </div>
+
+                    <div className={styles.meme}>
+                        <img src="/IMG_3374.JPG" alt="#"/>
+                    </div>
+
+
+                </div>
             </div>
           </div>
 
