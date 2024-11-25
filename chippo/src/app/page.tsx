@@ -34,9 +34,6 @@ export default function Home() {
                   />
               </div>
             <div className={styles.banner__section__overlay}>
-              <p>Hi there DeGEN</p>
-              <p className={styles.ma}>It&apos;s CHILL HIPPO. Talking to you from the CHILL LAND</p>
-              <span>Let&apos;s create your own CHILL adventure.</span>
 
               <div className={styles.cta__buttons}>
                 <button className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit"}} href="https://jup.ag/swap/SOL-jCHd8bHsn9XLkLpP6tS63infRFHhorzXpt7pjU5pump">Buy Now</a> </button>
