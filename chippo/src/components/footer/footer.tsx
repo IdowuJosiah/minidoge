@@ -26,12 +26,12 @@ const Footer = () => {
       <button className='copy-button' onClick={handleCopy}>CONTRACT ADDRESS</button>
       <div className="footer-icons">
           <div className="links">
-              <a href="https://x.com/colossusctosol" className="">
+              <a href="https://x.com/ChippoSolana" className="">
                   <FaXTwitter/>
               </a>
           </div>
           <div className="links">
-              <a href="https://t.me/ColossusPortalcto" className="">
+              <a href="https://t.me/chipposolana" className="">
                   <FaTelegramPlane />
               </a>
           </div>

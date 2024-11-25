@@ -34,7 +34,11 @@ export default function Home() {
                   />
               </div>
             <div className={styles.banner__section__overlay}>
-
+                    <div className="header-divo">
+                        <h1 className="header-landing">
+                            $CHILL HIPPO
+                        </h1>
+                    </div>
               <div className={styles.cta__buttons}>
                 <button className={styles.buy__button}><a style={{textDecoration:"none", color:"inherit"}} href="https://jup.ag/swap/SOL-jCHd8bHsn9XLkLpP6tS63infRFHhorzXpt7pjU5pump">Buy Now</a> </button>
                 <button className={styles.get__button}> <a style={{textDecoration:"none", color:"inherit"}} href="https://dexscreener.com/solana/a8yhjw5rxupz6nnrivtnh4ajnsfotv2aq64ubyqwzmxe">Get on Dex</a></button>

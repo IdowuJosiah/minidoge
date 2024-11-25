@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8147a2d-8257-41b4-9291-ad6e801519df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chillcat/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/-614018135961598766.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/-9089601618369949122.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/GbBmEIKWIAAdwUx.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/GbD4ptEW4AAbEEr.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/GbEioERbQAAEH3P.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0048.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0049.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0053.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3014.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3016.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3065.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3102.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/WhatsApp Image 2024-11-01 at 13.51.32 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/WhatsApp Image 2024-11-01 at 13.51.33 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/ai-generated-8644499_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/copy_0AC5F4C3-70E6-4EAD-9816-64F94771D11C.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/copy_BB1828E6-641C-4B9C-9CD8-43537E8768AF.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/copy_E2241F8C-6456-401C-A323-E76833C8D15D.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/dex-screener-seeklogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/dex-screener-seeklogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/Bouncy-Black-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/Bouncy-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/Bouncy-Thin-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/KOMIKAX_.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/gif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/hamback.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/photo_2024-10-31 22.31.01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/sample-banner-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/fonts/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/page.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/back-to-top/back-to-top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/back-to-top/back-to-top.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/navbar/navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/navbar/navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chippo/src/components/footer/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../chippo/src/components/footer/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../happydog/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../happydog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iconic/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../iconic/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../molly/src/components/navbar/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../molly/src/components/navbar/navbar.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2pLIbIYZdUPLWUk8Ys0hNvFS02h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/josiah/Downloads/reversal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/josiah/Downloads/reversal/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8147a2d-8257-41b4-9291-ad6e801519df" name="Changes" comment="" />
+      <created>1732538999027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732538999027</updated>
+      <workItem from="1732539000698" duration="734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
