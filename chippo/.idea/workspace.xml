@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="207dfb48-5684-4f3c-b965-ff99c831f9a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chillcat/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/.idea/chillcat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/-614018135961598766.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/-9089601618369949122.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/GbBmEIKWIAAdwUx.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/GbD4ptEW4AAbEEr.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/GbEioERbQAAEH3P.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0048.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0049.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_0053.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3014.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3016.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3065.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/IMG_3102.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/WhatsApp Image 2024-11-01 at 13.51.32 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/WhatsApp Image 2024-11-01 at 13.51.33 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/ai-generated-8644499_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/copy_0AC5F4C3-70E6-4EAD-9816-64F94771D11C.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/copy_BB1828E6-641C-4B9C-9CD8-43537E8768AF.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/copy_E2241F8C-6456-401C-A323-E76833C8D15D.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/dex-screener-seeklogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/dex-screener-seeklogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/Bouncy-Black-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/Bouncy-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/Bouncy-Thin-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/font/KOMIKAX_.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/gif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/hamback.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/photo_2024-10-31 22.31.01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/sample-banner-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/fonts/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/page.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/back-to-top/back-to-top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/back-to-top/back-to-top.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/navbar/navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/src/components/navbar/navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chillcat/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chippo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/GbBlc37XwAAkYvB.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/GbBmEIKWIAAdwUx.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/GbD4ptEW4AAbEEr.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/GbEioERbQAAEH3P.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/IMG_3333.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/IMG_3337.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/WhatsApp Image 2024-10-29 at 20.37.29.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/WhatsApp Image 2024-10-29 at 20.37.30.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/WhatsApp Image 2024-10-29 at 20.37.31.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ai-generated-8644499_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ai-generated-8905905_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bitcoin-6230533_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/copy_9741D2AA-D786-49B1-8777-0263DD04C07B.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dex-screener-seeklogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dex-screener-seeklogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/font/Bouncy-Black-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/font/Bouncy-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/font/Bouncy-Thin-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/font/KOMIKAX_.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mo.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/photo_2024-10-31 22.30.55.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/photo_2024-10-31 22.31.01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sample-banner-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/fonts/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/back-to-top/back-to-top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/back-to-top/back-to-top.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar/navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar/navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/slide-text/slide-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/slide-text/slide-text.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/steps/steps.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/steps/steps.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/.idea/deeznutz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/-614018135961598766.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/-9089601618369949122.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/GbBmEIKWIAAdwUx.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/GbD4ptEW4AAbEEr.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/GbEioERbQAAEH3P.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_0048.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_0049.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_0053.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_3014.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_3016.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_3065.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/IMG_3102.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/WhatsApp Image 2024-11-01 at 13.51.32 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/WhatsApp Image 2024-11-01 at 13.51.33 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/ai-generated-8644499_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/copy_0AC5F4C3-70E6-4EAD-9816-64F94771D11C.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/copy_BB1828E6-641C-4B9C-9CD8-43537E8768AF.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/copy_E2241F8C-6456-401C-A323-E76833C8D15D.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/dex-screener-seeklogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/dex-screener-seeklogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/font/Bouncy-Black-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/font/Bouncy-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/font/Bouncy-Thin-PERSONAL_USE_ONLY.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/font/KOMIKAX_.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/gif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/hamback.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/photo_2024-10-31 22.31.01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/sample-banner-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/app/fonts/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/app/page.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/components/back-to-top/back-to-top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/components/back-to-top/back-to-top.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/components/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/components/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/components/navbar/navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/src/components/navbar/navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deeznutz/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gugo/src/app/page.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../gugo/src/app/page.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gugo/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../gugo/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.idea/happydog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/-2122678917185029725.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/-7780751749536911421.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/-9089601618369949122.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/GbBlc37XwAAkYvB.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/GbBmEIKWIAAdwUx.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/GbD4ptEW4AAbEEr.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/GbEioERbQAAEH3P.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3006.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3007.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3008.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3009.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3010.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3011.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3012.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3013.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3014.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3015.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3016.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3017 2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3018.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3041.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3065.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3102-removebg-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/IMG_3102.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/WhatsApp Image 2024-10-29 at 20.37.31.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/WhatsApp Image 2024-11-01 at 13.51.32 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/WhatsApp Image 2024-11-01 at 13.51.33 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/WhatsApp Image 2024-11-01 at 13.51.33.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/ai-generated-8644499_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/ai-generated-8905905_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/bitcoin-6230533_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/copy_21C9F681-CD73-4257-A235-F789D55C11E5.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/copy_BB1828E6-641C-4B9C-9CD8-43537E8768AF.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/dex-screener-seeklogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/dex-screener-seeklogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/gif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/hamback.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/photo_2024-10-31 22.31.01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/sample-banner-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/app/fonts/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/app/page.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/components/back-to-top/back-to-top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/components/back-to-top/back-to-top.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/components/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/components/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/components/navbar/navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/src/components/navbar/navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydog/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iconic/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../iconic/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../molly/src/components/navbar/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../molly/src/components/navbar/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/.idea/reversal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/GbBmEIKWIAAdwUx.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/IMG_0062.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/IMG_3014.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/IMG_3041.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/ai-generated-8644499_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/ai-generated-8905905_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/character.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/copy_6B121DB7-1A5A-4354-9FB9-19F86D280DB3.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/dex-screener-seeklogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/dex-screener-seeklogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/gif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/money.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/app/fonts/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/app/page.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/components/back-to-top/back-to-top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/components/back-to-top/back-to-top.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/components/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/components/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/components/navbar/navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/src/components/navbar/navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversal/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IdowuJosiah"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:IdowuJosiah/aaaaaa.git",
+    "accountId": "3b00d638-2beb-4546-9e07-80ae107103a9"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pLGNzJnwT4VzTek16lt2eiqqzg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/josiah/Downloads/chippo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/josiah/Downloads/chippo/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="207dfb48-5684-4f3c-b965-ff99c831f9a9" name="Changes" comment="" />
+      <created>1732537906842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732537906842</updated>
+      <workItem from="1732537908722" duration="954000" />
+      <workItem from="1732538961488" duration="11000" />
+      <workItem from="1732538985126" duration="3062000" />
+      <workItem from="1732639356426" duration="1483000" />
+      <workItem from="1733021456730" duration="295000" />
+      <workItem from="1733136491564" duration="67000" />
+      <workItem from="1733136810477" duration="178000" />
+      <workItem from="1733137397312" duration="778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

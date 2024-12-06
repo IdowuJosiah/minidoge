@@ -11,7 +11,7 @@
         position: relative;
 
         @media screen and (min-width:920px) {
-            height: 120vh;
+            height: 100vh;
         }
 
         @media screen and (max-width:920px) {
@@ -78,7 +78,7 @@
                     min-width: 200px;
                     border-radius: 30px;
                     cursor: pointer;
-                    font-family: var(--font-work-sans);
+                    font-family: MyCustomFont;
                     font-size: 20px;
                     font-weight: 600;
                     border: none;
@@ -98,11 +98,11 @@
 
 
                 .buy__button{
-                    background: rgb(255, 153, 2);
+                    background: rgb(57, 31, 73);
                 }
 
                 .get__button{
-                    background: rgb(29,155,240);
+                    background: #707131;
                 }
             }
         }

@@ -9,7 +9,7 @@ import Dex from '../../../public/dex-screener-seeklogo.png'
 
 const Footer = () => {
   const [copied, setCopied] = useState(false);
-  const code = "EM2xa9mWsVKkDUP3KGfy7WxC1vXS7FdTgARdnZzrpump";
+  const code = "Ea1tU16MedYE6McXLxVVv9iKYSkoPNGzJjef15UZpump";
 
   const handleCopy = () => {
     console.log('clicked');
@@ -21,22 +21,22 @@ const Footer = () => {
 
   return (
     <div className='footer-section' id='contact'>
-      <header className='footer-header'>Get some $GUGO here</header>
+      <header className='footer-header'>Get some $DOGE here</header>
       <span>Ready to do this? Let&apos;s get rich</span>
       <button className='copy-button' onClick={handleCopy}>CONTRACT ADDRESS</button>
       <div className="footer-icons">
           <div className="links">
-              <a href="https://x.com/GugoOnSolana" className="">
+              <a href="https://x.com/DOC_CTO" className="">
                   <FaXTwitter/>
               </a>
           </div>
           <div className="links">
-              <a href="https://t.me/+Z3LQESaxm8lhZWVh" className="">
+              <a href="https://t.me/DogeOfComfortCTO" className="">
                   <FaTelegramPlane />
               </a>
           </div>
           <div className="links">
-              <a href="https://dexscreener.com/solana/6nuhxztpq38ct2xuryzundvcivhu4hca1tstt7k7ycru" className="">
+              <a href="https://dexscreener.com/solana/b4mbqj8ay6aqrbdypu3esgd9e2lhmzazkbrwg3vtc6x9" className="">
                   <Image src={Dex} alt=''/>
               </a>
           </div>

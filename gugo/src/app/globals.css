@@ -19,8 +19,8 @@ html{
 }
 @font-face {
   font-family: 'MyCustomFont';
-  src: url('/font/Bouncy-Black-PERSONAL_USE_ONLY.otf') format('woff2'),
-  url('/font/KOMIKAX_.ttf') format('truetype');
+  src: url('/font/Minecraft.ttf') format('woff2'),
+  url('/font/Minecraft.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

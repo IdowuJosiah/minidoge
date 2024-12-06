@@ -48,7 +48,7 @@ const lexend = Lexend({
 });
 
 export const metadata: Metadata = {
-  title: "Gugo",
+  title: "DOGE",
   description: "",
 };
 
