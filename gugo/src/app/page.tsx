@@ -36,20 +36,7 @@ export default function Home() {
               </div>
             </div>
             <div>
-                <div className={styles.meme__gallery} id="gallery">
-                    <div className={styles.meme}>
-                        <img src="/photo_2024-12-06 21.41.50.jpeg" alt="#"/>
-                    </div>
 
-                    <div className={styles.meme}>
-                        <img src="/photo_2024-12-06 21.41.56.jpeg" alt="#"/>
-                    </div>
-
-                    <div className={styles.meme}>
-                        <img src="/photo_2024-12-06 21.42.00.jpeg" alt="#"/>
-                    </div>
-
-                </div>
                 <Footer/>
             </div>
           </div>
