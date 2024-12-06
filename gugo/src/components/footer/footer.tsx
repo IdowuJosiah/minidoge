@@ -22,7 +22,7 @@ const Footer = () => {
   return (
     <div className='footer-section' id='contact'>
       <header className='footer-header'>Get some $DOGE here</header>
-      <span>Ready to do this? Let&apos;s get rich</span>
+      <span className="white">Ready to do this? Let&apos;s get rich</span>
       <button className='copy-button' onClick={handleCopy}>CONTRACT ADDRESS</button>
       <div className="footer-icons">
           <div className="links">
